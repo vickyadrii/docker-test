@@ -1,1 +1,3 @@
-.envdo
+# environment variables
+.env
+.env.production
